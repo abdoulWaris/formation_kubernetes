@@ -222,9 +222,3 @@ Et qu’un pod crash :
 * Kubernetes fonctionne en mode déclaratif (état souhaité)
 
 ---
-
-# 🎯 Prochaine étape
-
-👉 Module 3 : **Installation de Kubernetes (Kind / Minikube / Docker Desktop)**
-
-C’est là que tu commences vraiment à manipuler un cluster 🚀
